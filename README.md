@@ -8,12 +8,14 @@
 
 <br/>
 
-<div align="center">
-  <div style="display: inline-block; text-align: left;">
-    🧑🏽‍💻 Currently working as a developer at <strong><a href="https://www.deepagro.co/#en" target="_blank">DeepAgro</a>.</strong> <br>
-    🏛️ I’m currently studying Computer Science at the <strong>Universidad Nacional de Rosario (UNR).</strong><br>
-  </div>
-</div>
+<table align="center">
+  <tr>
+    <td>
+      🧑🏽‍💻 Currently working as a developer at <strong><a href="https://www.deepagro.co/#en" target="_blank">DeepAgro</a>.</strong> <br>
+      🏛️ I’m currently studying Computer Science at the <strong>Universidad Nacional de Rosario (UNR).</strong>
+    </td>
+  </tr>
+</table>
 
 <br>
  
